@@ -9,6 +9,6 @@ end
 def first_element(array)
   array.first 
 end
-def third_element
+def third_element(array)
   array.at(2)
 end
